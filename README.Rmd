@@ -6,13 +6,12 @@ output: github_document
 
 ## Overview
 
-You will create a presentation in which you analyze the statistical methods 
-used in some published paper. This presentation must be hosted on GitHub and 
-in HTML format using RMarkdown. 
+You will create a presentation in which you analyze the statistical methods used in some published paper. 
+This presentation must be hosted on GitHub and in HTML format using RMarkdown. 
 
-**Assigned**: 03/06  
-**Presentation due date**: 04/10  
-**Comments due date**: 04/17  
+**Assigned**: 03/11  
+**Presentation due date**: 04/08  
+**Comments due date**: 04/15  
 
 ## Requirements
 
@@ -38,16 +37,12 @@ in HTML format using RMarkdown.
 ## Details
 
 - Your presentation must be an HTML presentation written in RMarkdown. 
-- Your presentation must be contained in a public repo on GitHub and 
-converted to a website using GitHub Pages.
+- Your presentation must be contained in a public repo on GitHub and converted to a website using GitHub Pages.
 - When you have finished...
-	- Add a folder to your personal dropbox in ```datasci_assignments``` called 
-	```online_presentation```
+	- Add a folder to your personal dropbox in `programming_assignments` called `online_presentation`
 	- Create a README.md file that includes a link to your HTML presentation
-	- Create a pull request to push your changes to the datasci_assignments 
-	repo
-	- Read the presentations of two other students and leave a brief comment 
-	in their repo (1 paragraph min., under issues)
+	- Create a pull request to push your changes to the programming_assignments repo
+	- Read the presentations of two other students and leave a brief comment in their repo (1 paragraph min., under issues)
 
 ## Evaluation
 
