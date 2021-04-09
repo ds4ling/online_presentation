@@ -4,6 +4,16 @@ subtitle: "Online presentation"
 output: github_document
 ---
 
+## Links
+
+- https://ccy07.github.io/online-presentation/
+- https://knf43.github.io/online_presentation/Online_Presentation/Kaylee_Fernandez.html#1
+- https://gabrielaconstantin-dureci.github.io/OnlinePresentation/Presentation%20DS4L/PresentationSlides.html#1
+- https://gabosjw.github.io/online_presentation/online_presentation_Jiawei.html
+- https://joselyn-rodriguez.github.io/kurumadaetal2014/
+- https://kparrish92.github.io/online-presentation/index.html
+- https://pthane.github.io/IncAcq_Analysis/#1
+
 ## Overview
 
 You will create a presentation in which you analyze the statistical methods used in some published paper. 
