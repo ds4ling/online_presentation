@@ -10,6 +10,7 @@ Assignment
 -   <https://joselyn-rodriguez.github.io/kurumadaetal2014/>
 -   <https://kparrish92.github.io/online-presentation/index.html>
 -   <https://pthane.github.io/IncAcq_Analysis/#1>
+-   <https://kgeovanni.github.io/presentation/index.html>
 
 ## Overview
 
