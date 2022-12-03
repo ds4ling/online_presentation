@@ -3,14 +3,7 @@ Assignment
 
 ## Links
 
--   <https://ccy07.github.io/online-presentation/>
--   <https://knf43.github.io/online_presentation/Online_Presentation/Kaylee_Fernandez.html#1>
--   <https://gabrielaconstantin-dureci.github.io/OnlinePresentation/Presentation%20DS4L/PresentationSlides.html#1>
--   <https://gabosjw.github.io/online_presentation/online_presentation_Jiawei.html>
--   <https://joselyn-rodriguez.github.io/kurumadaetal2014/>
--   <https://kparrish92.github.io/online-presentation/index.html>
--   <https://pthane.github.io/IncAcq_Analysis/#1>
--   <https://kgeovanni.github.io/presentation/index.html>
+Coming soon
 
 ## Overview
 
@@ -18,46 +11,45 @@ You will create a presentation in which you analyze the statistical
 methods used in some published paper. This presentation must be hosted
 on GitHub and in HTML format using RMarkdown.
 
-**Assigned**: 03/11  
-**Presentation due date**: 04/08  
-**Comments due date**: 04/15
+**Assigned**: 03/06  
+**Presentation due date**: 04/10  
+**Comments due date**: 04/17
 
 ## Requirements
 
--   Find an article with interesting stats.
--   Get approval for the article from the professor
--   Briefly summarize the main points/research questions
--   Scrutinize their methods
-    -   Explanation of analysis
-        -   What did they do?
-        -   How did they do it?
-        -   Why did they do it?
-    -   Appropriateness/novelty of analysis
-        -   Given what you know/what you have previously read, was this
-            the best analysis?
-        -   Did they do something you haven’t seen before? What? Why?
-            How?
-    -   Presentation of results
-        -   Did they properly/accurately explain their results?
-        -   Did they properly/accurately interpret their findings?
-        -   Did they use tables/graphs? Did the tables/graphs facilitate
-            the interpretation of the results?
--   Briefly describe why/what you liked or disliked about their analysis
+- Find an article with interesting stats.
+- Get approval for the article from the professor
+- Briefly summarize the main points/research questions
+- Scrutinize their methods
+  - Explanation of analysis
+    - What did they do?
+    - How did they do it?
+    - Why did they do it?
+  - Appropriateness/novelty of analysis
+    - Given what you know/what you have previously read, was this the
+      best analysis?
+    - Did they do something you haven’t seen before? What? Why? How?
+  - Presentation of results
+    - Did they properly/accurately explain their results?
+    - Did they properly/accurately interpret their findings?
+    - Did they use tables/graphs? Did the tables/graphs facilitate the
+      interpretation of the results?
+- Briefly describe why/what you liked or disliked about their analysis
 
 ## Details
 
--   Your presentation must be an HTML presentation written in RMarkdown.
--   Your presentation must be contained in a public repo on GitHub and
-    converted to a website using GitHub Pages.
--   When you have finished…
-    -   Add a folder to your personal dropbox in
-        `programming_assignments` called `online_presentation`
-    -   Create a README.md file that includes a link to your HTML
-        presentation
-    -   Create a pull request to push your changes to the
-        programming\_assignments repo
-    -   Read the presentations of two other students and leave a brief
-        comment in their repo (1 paragraph min., under issues)
+- Your presentation must be an HTML presentation written in RMarkdown.
+- Your presentation must be contained in a public repo on GitHub and
+  converted to a website using GitHub Pages.
+- When you have finished…
+  - Add a folder to your personal dropbox in `programming_assignments`
+    called `online_presentation`
+  - Create a README.md file that includes a link to your HTML
+    presentation
+  - Create a pull request to push your changes to the
+    programming_assignments repo
+  - Read the presentations of two other students and leave a brief
+    comment in their repo (1 paragraph min., under issues)
 
 ## Evaluation
 
