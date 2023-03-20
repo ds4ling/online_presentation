@@ -13,7 +13,6 @@ Coming soon
 You will create a presentation in which you analyze the statistical methods used in some published paper. 
 This presentation must be hosted on GitHub and in HTML format using RMarkdown. 
 
-**Assigned**: 03/06  
 **Presentation due date**: 04/10  
 **Comments due date**: 04/17  
 
