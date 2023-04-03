@@ -3,7 +3,14 @@ Assignment
 
 ## Links
 
-Coming soon
+### Examples
+
+- <https://ccy07.github.io/online-presentation/>
+- <https://joselyn-rodriguez.github.io/kurumadaetal2014/>
+
+### Class presentations
+
+Coming soon.
 
 ## Overview
 
