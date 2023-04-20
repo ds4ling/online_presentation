@@ -3,14 +3,13 @@ Assignment
 
 ## Links
 
-### Examples
-
-- <https://ccy07.github.io/online-presentation/>
-- <https://joselyn-rodriguez.github.io/kurumadaetal2014/>
-
-### Class presentations
-
-Coming soon.
+- <https://robertespo.github.io/ds4l_presentation/>
+- <https://mfeliuribas.github.io/online_presentation/op_shin_otheguy.html>
+- <https://ivanandreurascon.github.io/online_presentation/>
+- <https://ajaumelosa.github.io/online_presentation/>
+- <https://hyunjungjoo.github.io/online-presentation/>
+- <https://lramirezpolo.github.io/Presentation_LRP/>
+- <https://stephanierod.github.io/online_presentation_updated/>
 
 ## Overview
 
