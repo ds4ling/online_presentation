@@ -3,13 +3,7 @@ Assignment
 
 ## Links
 
-- <https://robertespo.github.io/ds4l_presentation/>
-- <https://mfeliuribas.github.io/online_presentation/op_shin_otheguy.html>
-- <https://ivanandreurascon.github.io/online_presentation/>
-- <https://ajaumelosa.github.io/online_presentation/>
-- <https://hyunjungjoo.github.io/online-presentation/>
-- <https://lramirezpolo.github.io/Presentation_LRP/>
-- <https://stephanierod.github.io/online_presentation_updated/>
+Coming soon.
 
 ## Overview
 
@@ -17,8 +11,8 @@ You will create a presentation in which you analyze the statistical
 methods used in some published paper. This presentation must be hosted
 on GitHub and in HTML format using RMarkdown.
 
-**Presentation due date**: 04/10  
-**Comments due date**: 04/17
+**Presentation due date**: 04/14  
+**Comments due date**: 04/21
 
 ## Requirements
 
