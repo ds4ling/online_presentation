@@ -1,5 +1,5 @@
-Assignment
-================
+# Assignment
+
 
 ## Links
 
@@ -66,3 +66,9 @@ on GitHub and in HTML format using RMarkdown.
 | **Total**                             |    50 |
 
 </br></br></br>
+
+## Examples
+
+- https://lramirezpolo.github.io/Presentation_LRP/
+- https://hyunjungjoo.github.io/online-presentation/
+- https://ajaumelosa.github.io/online_presentation/#1

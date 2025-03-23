@@ -1,7 +1,7 @@
 ---
 title: "Assignment"
 subtitle: "Online presentation"
-output: github_document
+format: gfm
 ---
 
 ## Links
@@ -65,3 +65,8 @@ This presentation must be hosted on GitHub and in HTML format using RMarkdown.
 </br></br></br>
 
 
+## Examples
+
+- https://lramirezpolo.github.io/Presentation_LRP/
+- https://hyunjungjoo.github.io/online-presentation/
+- https://ajaumelosa.github.io/online_presentation/#1
