@@ -15,6 +15,7 @@ format: gfm
 | Jukun   | [presentation](https://kun-afk.github.io/onlie-presentation/), [repo](https://www.github.com/kun-afk/onlie-presentation/)|
 | Merlin  | [presentation](https://merlinudinov.github.io/online_presentation/), [repo](https://www.github.com/merlinudinov/online_presentation/)|
 | Alex    | [presentation](https://a-k-rogers.github.io/online_presentation/online_pres.html), [repo](https://www.github.com/a-k-rogers/online_presentation/)|
+|Jorge | [presentation](https://jorgevargasmu.github.io/presentation/), [repo](https://github.com/jorgevargasmu/presentation/) |
 
 
 ## Overview
