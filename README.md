@@ -3,7 +3,15 @@
 
 ## Links
 
-Coming soon.
+| Name | Links |
+|:---|:---|
+| Eva | [presentation](https://emcorregidor.github.io/online_presentation/), [repo](https://www.github.com/emcorregidor/online_presentation/) |
+| Ying | [presentation](https://yyyingz.github.io/online_pre/), [repo](https://www.github.com/yyyingz/online_pre/) |
+| Quartz | [presentation](https://quartz-colvin.github.io/online_presentation/), [repo](https://www.github.com/quartz-colvin/online_presentation/) |
+| Charles | [presentation](https://charleshsueh.github.io/online-presentation/), [repo](https://www.github.com/charleshsueh/online-presentation/) |
+| Jukun | [presentation](https://kun-afk.github.io/onlie-presentation/), [repo](https://www.github.com/kun-afk/onlie-presentation/) |
+| Merlin | [presentation](https://merlinudinov.github.io/online_presentation/), [repo](https://www.github.com/merlinudinov/online_presentation/) |
+| Alex | [presentation](https://a-k-rogers.github.io/online_presentation/online_pres.html), [repo](https://www.github.com/a-k-rogers/online_presentation/) |
 
 ## Overview
 
