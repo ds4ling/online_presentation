@@ -16,6 +16,8 @@ format: gfm
 | Merlin  | [presentation](https://merlinudinov.github.io/online_presentation/), [repo](https://www.github.com/merlinudinov/online_presentation/)|
 | Alex    | [presentation](https://a-k-rogers.github.io/online_presentation/online_pres.html), [repo](https://www.github.com/a-k-rogers/online_presentation/)|
 |Jorge | [presentation](https://jorgevargasmu.github.io/presentation/), [repo](https://github.com/jorgevargasmu/presentation/) |
+| Yhosep | [presentation](https://ybarba.github.io/presentation/presentation.html), [repo](https://www.github.com/ybarba/presentation/) |
+| Andrea | [presentation](https://andreavcarbone.github.io/Presentation/), [repo](https://www.github.com/andreavcarbone/Presentation/) |
 
 
 ## Overview
